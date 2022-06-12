@@ -51,7 +51,7 @@ function App() {
           Information
         </span>
         : Figures in the charts are expressed in million euros. Data were
-        fetched from
+        fetched from&nbsp;
         <a
           style={{ "text-decoration": "none" }}
           href="https://www.transfermarkt.com/"
